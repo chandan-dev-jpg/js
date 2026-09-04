@@ -26,7 +26,7 @@ console.log(newStr1.trim())
 const url="chandanbeheara4598#gmail.com"
 console.log(url.replace('#','@'))
 
-
+console.log(url.split('.'))
 /*
 # JavaScript String Methods — Complete Notes
 
