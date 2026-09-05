@@ -57,4 +57,24 @@ const user4=
 ]
 
 console.log(user4[1])
+console.clear()
+//distructure 
+
+const course=
+{
+    course:"js",
+    price:"999",
+    sir:"hitesh"
+
+}
     
+const {sir}=course
+console.log(sir)
+console.clear()
+
+//json
+// {
+// "name":"rajedra",
+// "age":29
+
+// }
