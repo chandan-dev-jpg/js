@@ -24,7 +24,21 @@ function one()
     two()
     
 }
-one()
+// one()
+
+
+if(true)
+{
+    const username="hitesh"
+    if(username==="hitesh")
+    {
+        const website=" yt"
+        console.log(username+website)
+
+    }
+    // console.log(website)
+    console.log(username)
+}
 
 
 //+++++++++++Interesting++++++++++++++++
