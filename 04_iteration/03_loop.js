@@ -57,5 +57,40 @@ const obj1=
 
  coding.forEach((i)=>
 {
- console.log(i)   
+//  console.log(i)   
+})
+
+function printMe(item)
+{
+    console.log(item)
+}
+// coding.forEach(printMe)
+
+
+// coding.forEach((item,index,arr)=>{
+//     console.log(item)
+//     console.log(index)
+//     console.log(arr)
+// })
+
+const myCoding=[
+    {
+        name:"chandan",
+        age:23
+    },
+    {
+        name:"raju",
+        age:25
+    },
+    {
+        name:"Anita",
+        age:22
+    },
+
+]
+
+
+myCoding.forEach((arr)=>
+{
+    console.log(arr)
 })
